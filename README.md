@@ -20,8 +20,7 @@ I'm almost finished with the Foundation Course. Since I had already gone through
 
 ### Foundation:
 
-    All this projects were done in the last year, so I dind't put in my repository again, but I did it local to refresh my memory.
-
+All this projects were done in the last year, so I dind't put in my repository again, but I did it local to refresh my memory.
 [Recipe](https://github.com/MrEscappe/odin-recipes)
 [Landing Page](https://github.com/MrEscappe/Junji-itos)
 [Rock Paper Scissors](https://github.com/MrEscappe/rock_paper_scissors)
